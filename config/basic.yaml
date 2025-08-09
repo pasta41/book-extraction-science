@@ -1,0 +1,9 @@
+- name: greedy
+  temperature: 1.0
+  k: 1
+  suffix_start_index: 50
+
+- name: top-40
+  temperature: 1.0
+  k: 40
+  suffix_start_index: 50
